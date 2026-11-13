@@ -3,7 +3,7 @@
   "short_name": "Gestion SM",
   "description": "Devis, factures et comptabilité du laboratoire SOL MESURES",
   "lang": "fr",
-  "id": "./",
+  "id": "sol-mesures-gestion-commerciale",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

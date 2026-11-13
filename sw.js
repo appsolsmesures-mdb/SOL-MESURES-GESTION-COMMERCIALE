@@ -3,7 +3,7 @@
    Changer VERSION après une modification de index.html ou des icônes. application.js est toujours relu sur Internet quand c'est possible.
    Le lanceur du laboratoire est à la même adresse GitHub : on n'efface que les caches « sm-gestion-». */
 var PREFIXE = 'sm-gestion-';
-var VERSION = PREFIXE + '2026-11-13b';
+var VERSION = PREFIXE + '2026-11-13c';
 var FICHIERS = ['./', 'index.html', 'application.js', 'manifest.webmanifest',
   'icones/logo.png', 'icones/icone-192.png', 'icones/icone-512.png', 'icones/icone-masquable-512.png', 'icones/favicon-32.png', 'icones/apple-touch-icon.png'];
 
