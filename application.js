@@ -1,7 +1,7 @@
 /*
  * ADRESSE DE L'APPLICATION — seul fichier à modifier.
  *
- *  url : adresse /exec du déploiement Apps Script de la gestion commerciale
+ *  url : adresse /exec du déploiement Apps Script de l'application du laboratoire (App_SOL_MESURES_AppsScript)
  *        (éditeur Apps Script > Déployer > Gérer les déploiements > « Application Web » > URL).
  *        Elle ne change pas quand on publie une nouvelle version avec « Modifier > Nouvelle version ».
  *
@@ -9,6 +9,6 @@
  * (deux fois si l'ancienne adresse s'ouvre encore).
  */
 var SOL_MESURES_APPLICATION = {
-  nom: 'SOL MESURES · Gestion commerciale',
-  url: 'https://script.google.com/macros/s/AKfycbzqhxiRghCa9cFRS_BHMXcI7LAleiPROLwMKM3sNZB0x2YTlnUm5ebA1Eo9ja6e_HtG/exec'
+  nom: 'SOL MESURES · Laboratoire',
+  url: 'https://script.google.com/macros/s/AKfycbwjGXcJZ-tVw9OWC_MPI0pANfBSG0Bmo2Oe4XpN1g-G7H1WVoiaHIiaiLoEUVPciJaf/exec'
 };
